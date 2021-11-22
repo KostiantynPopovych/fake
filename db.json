@@ -1,7 +1,7 @@
 {
   "endpoints": [
     {
-      "id": "truckmate",
+      "id": "1",
       "name": "first",
       "params": {
         "orderId": {
@@ -15,7 +15,7 @@
       }
     },
     {
-      "id": "innovative",
+      "id": "2",
       "name": "Second",
       "params": {
         "payId": {
