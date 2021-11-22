@@ -1,0 +1,32 @@
+{
+  "endpoints": [
+    {
+      "id": 1,
+      "name": "first",
+      "params": {
+        "orderId": {
+          "type": "number",
+          "name": "Order ID"
+        },
+         "invoiceId": {
+          "type": "string",
+          "name": "Invoice ID"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Second",
+      "params": {
+        "payId": {
+          "type": "number",
+          "name": "Pay ID"
+        },
+         "receiverId": {
+          "type": "string",
+          "name": "Receiver ID"
+        }
+      }
+    }
+  ]
+}
