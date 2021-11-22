@@ -1,34 +1,32 @@
 {
-  "tms": {
-    "endpoints": [
-      {
-        "id": "truckmate",
-        "name": "first",
-        "params": {
-          "orderId": {
-            "type": "number",
-            "name": "Order ID"
-          },
-           "invoiceId": {
-            "type": "string",
-            "name": "Invoice ID"
-          }
-        }
-      },
-      {
-        "id": "innovative",
-        "name": "Second",
-        "params": {
-          "payId": {
-            "type": "number",
-            "name": "Pay ID"
-          },
-           "receiverId": {
-            "type": "string",
-            "name": "Receiver ID"
-          }
+  "endpoints": [
+    {
+      "id": "truckmate",
+      "name": "first",
+      "params": {
+        "orderId": {
+          "type": "number",
+          "name": "Order ID"
+        },
+         "invoiceId": {
+          "type": "string",
+          "name": "Invoice ID"
         }
       }
-    ]
-  }
+    },
+    {
+      "id": "innovative",
+      "name": "Second",
+      "params": {
+        "payId": {
+          "type": "number",
+          "name": "Pay ID"
+        },
+         "receiverId": {
+          "type": "string",
+          "name": "Receiver ID"
+        }
+      }
+    }
+  ]
 }
