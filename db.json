@@ -9,7 +9,7 @@
           "name": "Order ID"
         },
          "invoiceId": {
-          "type": "string",
+          "type": "number",
           "name": "Invoice ID"
         }
       }
