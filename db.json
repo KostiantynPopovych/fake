@@ -28,5 +28,15 @@
         }
       }
     }
-  ]
+  ],
+  "params": {
+    "deffinition": {
+      "name": "Deffinition",
+      "type": "string"
+    },
+    "count": {
+      "name": "Count",
+      "type": "number"
+    }
+  } 
 }
